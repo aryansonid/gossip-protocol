@@ -1,8 +1,4 @@
-# gossip
-
-[![Travis branch](https://img.shields.io/travis/libopenstorage/gossip/master.svg)](https://travis-ci.org/libopenstorage/gossip)
-[![Code Coverage](https://codecov.io/gh/libopenstorage/gossip/branch/master/graph/badge.svg)](https://codecov.io/gh/libopenstorage/gossip)
-
+# Gossip
 
 Go implementation of the Gossip protocol.
 
